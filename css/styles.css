@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@200&display=swap');
+/* Etiquetas */
+
+*{
+    font-family: 'Kodchasan', sans-serif;;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.header{
+    width: 90%;
+    height: auto;
+    margin: 10px 10px 10px 10px;
+}
+
+.biblioteca{
+    width: 80%;
+    height: auto;
+    margin: 50px 50px 50px 50px;
+}
+
+.biblioteca__title--xl{
+    font-size:xx-large;
+    font-weight: 1000;
+}
+
+.biblioteca__articulo{
+    font-size: 2rem;
+    color: rgb(225, 225, 225);
+}
+
+hr{
+    color:#05040E;
+    background-color: #05040E;
+}
+h1{
+    color: #ff0000;
+}
+
+/* Selectores descendente */
+
+body{
+    background-color: rgb(20, 17, 46);
+}
+
+/* Selectores de grupo */
+
+h1,h2{
+    font-size: 2rem;
+}
+
+/* Selectores de clase */
+
+.text_dark{
+    color: #000000;
+}
+
+.text-italic{
+    font-style: italic;
+}
+/* Selectores de id */
